@@ -1,0 +1,15 @@
+{
+  "name": "flappy-bird-clone",
+  "version": "1.0.0",
+  "description": "flappy bird clone built using phaserjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cody Brewer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "phaser": "^3.22.0"
+  }
+}
